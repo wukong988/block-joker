@@ -1,0 +1,20 @@
+{
+    "clientKey": "e86090d9536103fa6c3",
+    "token": [
+        {
+            "authToken": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1aWQiOjI1MDI0MywiZXhwIjoxNzU4NDM0NzI3LCJjcnQiOjE3NDI4ODI3Mjd9.c70o4L6EzvJAACY9v0DPQxxSIoPWdL0HglmjUxycRmQ",
+            "cookie": "",
+            "userAgent": ""
+        },
+        {
+            "authToken": "Bearer eyJhbGciOi.eyJ1aWQiOjI",
+            "cookie": "",
+            "userAgent": ""
+        },
+        {
+            "authToken": "Bearer eyJhbGciO.eyJ1aWQiOjI1",
+            "cookie": "",
+            "userAgent": ""
+        }
+    ]
+}
