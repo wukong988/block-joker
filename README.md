@@ -30,18 +30,21 @@ http://用户名:密码@IP:端口
 ## 使用方法
 
 ### 1. 克隆仓库
-bash
+```bash
 https://github.com/wukong988/block-joker.git
 cd block-joker
+```
 
 
 ### 2. 安装依赖
-bash
+```bash
 pip install -r requirements.txt
+```
 
 ### 3. 运行脚本
-bash
+```bash
 python joker.py
+```
 
 
 
